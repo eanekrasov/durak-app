@@ -1,0 +1,68 @@
+<resources>
+
+    <string name="button_settings">Открыть настройки</string>
+    <string name="button_do_not_show_rationale">Больше не показывать</string>
+    <string name="button_request">Запросить разрешения</string>
+
+    <string name="text_permission_rationale">Локация требуется для поиска устройств в сетевой игре. Пожалуйста, предоставьте разрашения.</string>
+    <string name="text_permission_denied">Локация не предоставлена. Пожалуйста, включите ее в настройках приложения.</string>
+
+    <string name="title_local">Локальная игра</string>
+    <string name="title_remote">Сетевая игра</string>
+    <string name="title_client">Подключиться</string>
+    <string name="title_server">Играть</string>
+    <string name="title_config">Конфиг</string>
+    <string name="title_settings">Настройки</string>
+    <string name="title_slot">Слот</string>
+    <string name="title_layout">Лэйаут</string>
+
+    <string name="title_customize_index">Кастомизация</string>
+    <string name="title_customize_hand">Рука</string>
+    <string name="title_customize_deck">Колода</string>
+    <string name="title_customize_rules">Правила игры</string>
+
+    <string name="menu_server">Играть</string>
+    <string name="menu_client">Подключиться</string>
+    <string name="menu_custom">Кастомизация</string>
+    <string name="menu_config">Конфиг</string>
+    <string name="menu_resume">Продолжить</string>
+    <string name="menu_restart">Рестарт</string>
+    <string name="menu_save">Сохранить</string>
+    <string name="menu_exit">Выход</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_slot">Слот</string>
+    <string name="menu_layout">Лэйаут</string>
+    <string name="menu_rules">Правила</string>
+    <string name="menu_num_players">Игроков</string>
+    <string name="menu_talon">Прикуп</string>
+
+    <string name="config_title">Имя</string>
+    <string name="config_subtitle">Подпись</string>
+    <string name="config_avatar">Аватар</string>
+    <string name="config_theme">Тема</string>
+    <string name="config_back">Рубашка</string>
+    <string name="config_scale">Скейл</string>
+    <string name="config_deck">Колода</string>
+
+    <string name="rule_hand_Size">Карт в руке</string>
+    <string name="rule_neighbors">Подкидывают только соседи</string>
+    <string name="rule_neighbors_extra">Когда игроков много</string>
+    <string name="rule_switch_turn">Переводной</string>
+    <string name="rule_switch_turn_extra">Карта того же ранга переводит ход</string>
+    <string name="rule_first_attack_5_cards">Первая атака - 5 карт</string>
+    <string name="rule_first_attack_5_cards_extra">Облегченная атака пока бито пусто</string>
+    <string name="rule_next_round_after">Новый раунд "из-под дурака"</string>
+    <string name="rule_next_round_after_extra">Первым ходит игрок после проигравшего</string>
+    <string name="rule_unlimited_attack">Атака без ограничений</string>
+    <string name="rule_unlimited_attack_extra">До последней карты защищающегося</string>
+    <string name="rule_trumpless">Нет козыря</string>
+    <string name="rule_trumpless_extra">Все масти равнозначны</string>
+
+    <string name="title_bluetooth_active">Bluetooth активен</string>
+    <string name="title_bluetooth">Bluetooth</string>
+    <string name="advertising_active">Кликни для отключения</string>
+    <string name="advertising_inactive">Кликни для активации</string>
+    <string name="advertising_denied">Кликни для запроса пермишена</string>
+
+    <string name="game_taking">Беру</string>
+</resources>

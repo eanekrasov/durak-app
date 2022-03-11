@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name" translatable="false">Durak</string>
+    <string name="button_settings">Open Settings</string>
+    <string name="button_do_not_show_rationale">Don`t show rationale again</string>
+    <string name="button_request">Request permission</string>
+
+    <string name="text_permission_rationale">The location permission is required to scan the opponent`s device for remote game. Please grant the permission.</string>
+    <string name="text_permission_denied">Location permission denied. Please, grant us access on the Settings screen.</string>
+
+    <string name="title_local">Local</string>
+    <string name="title_remote">Remote</string>
+    <string name="title_client">Connect</string>
+    <string name="title_server">Play</string>
+    <string name="title_config">Config</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_slot">Slot</string>
+    <string name="title_layout">Layout</string>
+
+    <string name="title_customize_index">Customize</string>
+    <string name="title_customize_hand">Hand</string>
+    <string name="title_customize_deck">Deck</string>
+    <string name="title_customize_rules">Rules</string>
+
+    <string name="menu_server">Play</string>
+    <string name="menu_client">Connect</string>
+    <string name="menu_custom">Custom</string>
+    <string name="menu_config">Config</string>
+    <string name="menu_resume">Resume</string>
+    <string name="menu_restart">Restart</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_exit">Exit</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_slot">Slot</string>
+    <string name="menu_layout">Layout</string>
+    <string name="menu_rules">Rules</string>
+    <string name="menu_num_players">Players</string>
+    <string name="menu_talon">Talon</string>
+
+    <string name="config_title">Name</string>
+    <string name="config_subtitle">Sign</string>
+    <string name="config_avatar">Avatar</string>
+    <string name="config_theme">Theme</string>
+    <string name="config_back">Back</string>
+    <string name="config_scale">Scale</string>
+    <string name="config_deck">Deck</string>
+
+    <string name="rule_hand_Size">Cards in hand</string>
+    <string name="rule_neighbors">Siblings only attack</string>
+    <string name="rule_neighbors_extra">When there are many players</string>
+    <string name="rule_switch_turn">Switchable</string>
+    <string name="rule_switch_turn_extra">Advance turn by same rank card</string>
+    <string name="rule_first_attack_5_cards">First attack is limited</string>
+    <string name="rule_first_attack_5_cards_extra">Only 5 cards while pile is still empty</string>
+    <string name="rule_next_round_after">Round starts after fool</string>
+    <string name="rule_next_round_after_extra">Player next to loser starts game</string>
+    <string name="rule_unlimited_attack">Attack is not limited by 6 cards</string>
+    <string name="rule_unlimited_attack_extra">It continues while one have cards to defend</string>
+    <string name="rule_trumpless">No trump suit</string>
+    <string name="rule_trumpless_extra">All suits are equivalent</string>
+
+    <string name="title_bluetooth_active">Bluetooth is active</string>
+    <string name="title_bluetooth">Bluetooth</string>
+    <string name="advertising_active">Advertising is active</string>
+    <string name="advertising_inactive">Click to activate</string>
+    <string name="advertising_denied">Click to request permissions</string>
+
+    <string name="game_taking">Taking</string>
+</resources>

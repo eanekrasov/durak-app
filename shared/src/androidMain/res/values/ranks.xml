@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rank_2" translatable="false">2</string>
+    <string name="rank_3" translatable="false">3</string>
+    <string name="rank_4" translatable="false">4</string>
+    <string name="rank_5" translatable="false">5</string>
+    <string name="rank_6" translatable="false">6</string>
+    <string name="rank_7" translatable="false">7</string>
+    <string name="rank_8" translatable="false">8</string>
+    <string name="rank_9" translatable="false">9</string>
+    <string name="rank_10" translatable="false">10</string>
+    <string name="rank_j" translatable="false">J</string>
+    <string name="rank_q" translatable="false">Q</string>
+    <string name="rank_k" translatable="false">K</string>
+    <string name="rank_a" translatable="false">A</string>
+</resources>
